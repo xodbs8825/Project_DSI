@@ -1,3 +1,16 @@
-# Project_DSI
+# 게임 소개
 
-Developed with Unreal Engine 5
+엔진 : UnrealEngine 5.5
+
+에디터 : Visual Studio 2022
+
+제작 기간 : 약 5개월
+
+개발 규모 : 1인 개발
+
+언리얼 엔진으로 구현한 소울류 장르의 게임 프로젝트입니다.
+
+현재 부가적인 편의 기능 추가 및 컨텐츠 추가 중입니다.
+
+# 주요 기능
+
