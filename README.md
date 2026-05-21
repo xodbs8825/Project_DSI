@@ -9,7 +9,8 @@
 
 언리얼 엔진으로 구현한 소울류 장르의 게임 프로젝트입니다.
 
-📜 **[기술 문서 확인](https://1drv.ms/p/c/c8e436837866b832/IQAZqPbzYXEIT59vAw5JjnOSATHVzPThBC3Vu-Zg-EkvxAY?e=YdnczI)**  
+📜 **[기술 문서 확인](https://1drv.ms/p/c/c8e436837866b832/IQAZqPbzYXEIT59vAw5JjnOSATHVzPThBC3Vu-Zg-EkvxAY?e=YdnczI)**
+(기술 문서의 UI 디자인은 현재 변경 되어 본 게임의 UI 디자인과 상이합니다.)
 
 # 🛠 주요 기능
 ### ⚔️ 캐릭터 시스템
