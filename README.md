@@ -9,6 +9,8 @@
 
 언리얼 엔진으로 구현한 소울류 장르의 게임 프로젝트입니다.
 
+📜 **[기술 문서 확인](https://1drv.ms/p/c/c8e436837866b832/IQAZqPbzYXEIT59vAw5JjnOSATHVzPThBC3Vu-Zg-EkvxAY?e=YdnczI)**  
+
 # 🛠 주요 기능
 ### ⚔️ 캐릭터 시스템
 * 스태미나 연동 구르기 및 무적 프레임 (i-frame) 구현
